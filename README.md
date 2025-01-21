@@ -1,6 +1,4 @@
-
 # poclab
-There is a bit of an air of mystery around this project...
 
+`pip install poclab`
 
-To install:	```pip install poclab```
